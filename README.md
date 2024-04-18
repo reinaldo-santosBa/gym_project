@@ -1,2 +1,2 @@
-# gym_project
-Projeto para academias e personais
+# gymon
+Este projeto tem como objetivo desenvolver um sistema eficiente para a gestão de academias e personal trainers. As tecnologias utilizadas serão Angular JS para o desenvolvimento web, React Native para aplicativos mobile, Spring Boot para o back-end e MySQL para gerenciamento de dados. O sistema proporcionará uma série de recursos para a programação de aulas e funcionalidades online para os usuários, tornando a experiência de gerenciamento das academias mais eficiente e produtiva.
